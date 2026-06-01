@@ -1,9 +1,3 @@
-<table width="100%">
-<tr>
-<td width="230" align="left">
- 
-<td align="left">
-
 # Hi there 👋, I'm Gina Villona
 
 ### Project Delivery Consultant | Construction Coordination Specialist
