@@ -1,9 +1,7 @@
 <table width="100%">
 <tr>
 <td width="230" align="left">
-  <img src="Profile.jpeg" width="220" style="border-radius:50%;">
-</td>
-
+ 
 <td align="left">
 
 # Hi there 👋, I'm Gina Villona
